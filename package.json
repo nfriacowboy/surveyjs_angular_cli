@@ -37,7 +37,7 @@
     "survey-pdf": "latest",
     "surveyjs-widgets": "latest",
     "tslib": "^1.13.0",
-    "xlsx": "^0.16.6",
+    "xlsx": "^0.18.5",
     "zone.js": "0.10.2"
   },
   "devDependencies": {
